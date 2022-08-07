@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### Development Tools
 <p>
   <a href="https://code.visualstudio.com/" target="_blank">
-	    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width=50px alt="vsCode"/> 
+	    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width=30px alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
 	    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />

@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 	    <img alt="colab" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fnholmber%2Fimage%2Fupload%2Fv1536752786%2Fcolab_icon_hphjpb.png&f=1&nofb=1" width=50px>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-	    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Logo-2Color.png&f=1&nofb=1" width=50px
 	      alt="git"/>
   </a>
   <a href="https://github.com/" target="_blank">

@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </a>
 
  <a href="www.html.com" target="_blank">
-	<img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width = 80px>
+	<img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width = 50px>
 </a>
 	
  <a href="https://daringfireball.net/projects/markdown/" target="_blank">

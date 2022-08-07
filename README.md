@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="www.ubuntu.com" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fubuntu-icon-logo-png-transparent.png&f=1&nofb=1" width=50px alt="linux" />
+	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fubuntu-icon-logo-png-transparent.png&f=1&nofb=1" width=35px alt="linux" />
   </a>
 
 </p>

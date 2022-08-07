@@ -59,7 +59,7 @@ Here are some ideas to get you started:
  </a>
 
  <a href="https://www.cprogramming.com/" target="_blank">
-		  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+		  <img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width=50px>
  </a>
 
  <a href="https://www.latex-project.org" target="_blank">

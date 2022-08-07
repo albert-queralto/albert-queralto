@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 ### Languages 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png">
   </a>
+	
+	<a href="https://imgbb.com/"><img src="" alt="python" border="0"></a>
 	
   <a href="https://www.r-project.org/" target="_blank">
 	   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">

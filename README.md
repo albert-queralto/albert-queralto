@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 	    <img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=40px>
   </a>	
   <a href="https://colab.research.google.com/" target="_blank">
-	    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+	    <img alt="colab" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fnholmber%2Fimage%2Fupload%2Fv1536752786%2Fcolab_icon_hphjpb.png&f=1&nofb=1" width=50px>
   </a>
   <a href="https://git-scm.com/" target="_blank">
 	    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"

@@ -47,9 +47,9 @@ Here are some ideas to get you started:
   </a>
 
  <a href="www.html.com" target="_blank">
-	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	<img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width = 80px>
 </a>
-
+	
  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
 	<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
  </a>

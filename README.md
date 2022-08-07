@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 	    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-221d1133-f3c3-48eb-a72c-c511828a1ff4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGNjdWRwNy0yMjFkMTEzMy1mM2MzLTQ4ZWItYTcyYy1jNTExODI4YTFmZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S3JJltb4zsHM7mjDs1sVLVZ-wvzkhEn_GfflenFMc6I" width=35px alt="jetbrains" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
-	    <img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=50px>
+	    <img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=40px>
   </a>	
   <a href="https://colab.research.google.com/" target="_blank">
 	    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">

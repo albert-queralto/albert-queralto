@@ -39,11 +39,11 @@ Here are some ideas to get you started:
   </a>
 	
   <a href="https://www.r-project.org/" target="_blank">
-	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 35px>
+	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 40px>
   </a>
 
   <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width = 60px>
+	<img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width = 70px>
   </a>
 
  <a href="www.html.com" target="_blank">

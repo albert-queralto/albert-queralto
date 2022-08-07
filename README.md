@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 ### Languages 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png" width = 25px>
+    <img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png" width = 30px>
   </a>
 	
   <a href="https://www.r-project.org/" target="_blank">
-	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 25px>
+	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 35px>
   </a>
 
   <a href="https://www.mysql.com/">

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="10%" height="10%"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/07/04/12/16/social-2470870_960_720.png" alt="albertqueralto" width="5%" height="5%"></a>
-<a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://i.ibb.co/XS7hq0j/kaggle.png" width="80%" height="80%" alt="albertqueralto"></a>	
+<a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://i.ibb.co/XS7hq0j/kaggle.png" width="20%" height="20%" alt="albertqueralto"></a>	
 	
 <img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" alt="aqueralto" /> <a href="https://twitter.com/queraltoalbert" target="blank"><img src="https://img.shields.io/twitter/follow/QueraltoAlbert?logo=twitter&style=for-the-badge" alt="QueraltoAlbert" /></a>
 	

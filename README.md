@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## How to reach me <img src = "https://media1.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 25 px>
 
-<a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://giphy.com/gifs/twitter-SMKiEh9WDO6ze"></a>
+<a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://i.giphy.com/media/SMKiEh9WDO6ze/200.webp"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>
 <a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>	
 	

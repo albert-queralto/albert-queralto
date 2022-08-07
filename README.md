@@ -55,7 +55,7 @@ Here are some ideas to get you started:
  </a>
 
  <a href="https://www.gnu.org/software/bash/" target="_blank">
-		  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge">
+		  <img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width= 50 px>
  </a>
 
  <a href="https://www.cprogramming.com/" target="_blank">

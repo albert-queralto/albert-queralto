@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="100%" height="100%">
+  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611962ac554c3cf1cafb77560935eb9867325f9344f&rid=giphy.gif&ct=g" width="50%" height="50%">
 
 ## How to reach me <img src = "https://media1.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 25 px>
 

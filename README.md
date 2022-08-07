@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="www.linux.org" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=50px alt="linux" />
+	    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=40px alt="linux" />
   </a>
 
   <a href="www.ubuntu.com" target="_blank">

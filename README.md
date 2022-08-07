@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	<img alt="MySQL" src="https://i.ibb.co/k84V4zS/sql.png">
   </a>
 
  <a href="www.html.com" target="_blank">

@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </a>
 	
  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-	<img alt="Markdown" src="https://www.fullstackpython.com/img/logos/markdown.png">
+	<img alt="Markdown" src="https://i.ibb.co/1fpKYjt/markdown.png">
  </a>
 
  <a href="https://www.gnu.org/software/bash/" target="_blank">

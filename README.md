@@ -63,9 +63,9 @@ Here are some ideas to get you started:
  </a>
 
  <a href="https://www.latex-project.org" target="_blank">
-		  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge">
+		  <img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width = 40 px>
  </a>
-
+	
 </p>
 	  
 ### Development Tools

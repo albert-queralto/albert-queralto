@@ -245,6 +245,7 @@ Here are some ideas to get you started:
 ## Projects
 
 <a href="https://github.com/aqueralto/ml_ijp_deposition_paper">
+<a href="https://github.com/aqueralto/goodreads-scraper">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 

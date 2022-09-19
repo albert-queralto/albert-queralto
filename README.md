@@ -245,13 +245,22 @@ Here are some ideas to get you started:
 ## Projects
 
 <a href="https://github.com/aqueralto/ml_ijp_deposition_paper">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aqueralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
+
+</a>
+
 <a href="https://github.com/aqueralto/goodreads-scraper">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aqueralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aqueralto&repo=goodreads-scraper&theme=tokyonight" />
 
-</a>  
+</a>
+
+
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 

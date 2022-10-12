@@ -244,19 +244,19 @@ Here are some ideas to get you started:
 
 ## Projects
 
-<a href="https://github.com/aqueralto/ml_ijp_deposition_paper">
+<a href="https://github.com/albert-queralto/ml_ijp_deposition_paper">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aqueralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
 
 </a>
 
-<a href="https://github.com/aqueralto/goodreads-scraper">
+<a href="https://github.com/albert-queralto/goodreads-scraper">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aqueralto&repo=goodreads-scraper&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=goodreads-scraper&theme=tokyonight" />
 
 </a>
 
@@ -268,12 +268,12 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqueralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albert-queralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="130px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-queralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="albert-queralto" height="130px"/>
   <br/>
-	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&theme=tokyonight" alt="aqueralto" height="192px"/>
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-queralto&theme=tokyonight" alt="albert-queralto" height="192px"/>
   <br/>
   </p>
 </details>
@@ -281,7 +281,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aqueralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aqueralto&custom_title=Albert%20Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/albert-queralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=albert-queralto&custom_title=Albert%20Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -289,11 +289,11 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aqueralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 <p align="center">
-  <img src="https://github.com/aqueralto/aqueralto/blob/output/github-contribution-grid-snake.svg"
+  <img src="https://github.com/albert-queralto/aqueraltalbert-queraltoo/blob/output/github-contribution-grid-snake.svg"
     alt="snake" />
 </p>
 -->

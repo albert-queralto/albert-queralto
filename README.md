@@ -161,11 +161,15 @@ Here are some ideas to get you started:
  </p>
   
 
-### Machine Learning Tools
+### Machine and Deep Learning Tools
 <p>
 
    <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png">
   </a>
 
  </p>
@@ -219,10 +223,6 @@ Here are some ideas to get you started:
  
  ### Learning
  <p>
-  
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
   
   <a href="https://keras.io/" target="_blank">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">

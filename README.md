@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 <p>
 
    <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="<a href="https://iili.io/Zyects.png" width = 40px>
+    <img alt="Scikit" src="https://iili.io/Zyects.png" width = 40px>
   </a>
 
   <a href="https://www.tensorflow.org" target="_blank">

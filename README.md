@@ -164,11 +164,11 @@ Here are some ideas to get you started:
 <p>
 
    <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://iili.io/Zyv4Zg.png)" width = 80px>
+    <img alt="Scikit" src="https://iili.io/Zyv4Zg.png)" width = 100px>
   </a>
 
   <a href="https://www.tensorflow.org" target="_blank">
-    <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png" width = 40px>
+    <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png" width = 60px>
   </a>
 
  </p>

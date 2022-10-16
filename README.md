@@ -117,15 +117,15 @@ Here are some ideas to get you started:
 ### Visualisation Tools
 <p>  
   <a href="https://matplotlib.org/" target="_blank">
-	    <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width=70px>
+	    <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width=60px>
   </a>
 
   <a href="https://seaborn.pydata.org" target="_blank">
-	    <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width=80px>
+	    <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width=70px>
   </a>
 
   <a href="https://plotly.com/" target="_blank">
-	    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+	    <img alt="Plotly" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width=60px>
   </a>
 
   <a href="" target="_blank">

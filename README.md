@@ -125,9 +125,9 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://plotly.com/" target="_blank">
-	    <img alt="Plotly" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width=60px>
+	    <img alt="Plotly" src="https://iili.io/t2hFaV.png" width=60px>
   </a>
-
+	
   <a href="" target="_blank">
 	    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
   </a>

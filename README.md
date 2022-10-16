@@ -107,12 +107,11 @@ Here are some ideas to get you started:
 	    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   <a href="https://www.mysql.com" target="_blank">
-	    <img alt="MySQL" src="https://iili.io/t217Ll.png" width=90px>
+	    <img alt="MySQL" src="https://iili.io/t217Ll.png" width=40px>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-	    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	    <img alt="Postgresql" src="https://iili.io/t2EVat.md.png" width=40px>
   </a>
-
 </p>
 	  
 ### Visualisation Tools

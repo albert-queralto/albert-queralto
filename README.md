@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ### Database Tools
 <p>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-	    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	    <img alt="MicrosoftSQLServer" src="https://iili.io/t2ESFS.md.png" width=40px>
   </a>
   <a href="https://www.mysql.com" target="_blank">
 	    <img alt="MySQL" src="https://iili.io/t217Ll.png" width=40px>

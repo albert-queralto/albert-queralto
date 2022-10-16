@@ -35,35 +35,35 @@ Here are some ideas to get you started:
 ### Languages 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png" width = 40px>
+    <img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png" width = 60px>
   </a>
 	
   <a href="https://www.r-project.org/" target="_blank">
-	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 50px>
+	   <img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width = 70px>
   </a>
 
   <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width = 90px>
+	<img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width = 110px>
   </a>
 
  <a href="www.html.com" target="_blank">
-	<img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width = 45px>
+	<img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width = 65px>
 </a>
 	
  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-	<img alt="Markdown" src="https://i.ibb.co/1fpKYjt/markdown.png" width = 60px>
+	<img alt="Markdown" src="https://i.ibb.co/1fpKYjt/markdown.png" width = 80px>
  </a>
 
  <a href="https://www.gnu.org/software/bash/" target="_blank">
-		  <img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width= 45px>
+		  <img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width= 65px>
  </a>
 
  <a href="https://www.cprogramming.com/" target="_blank">
-		  <img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width=40px>
+		  <img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width=60px>
  </a>
 
  <a href="https://www.latex-project.org" target="_blank">
-		  <img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width = 80px>
+		  <img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width = 100px>
  </a>
 	
 </p>
@@ -71,31 +71,31 @@ Here are some ideas to get you started:
 ### Development Tools
 <p>
   <a href="https://code.visualstudio.com/" target="_blank">
-	    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width=40px alt="vsCode"/> 
+	    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width=60px alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-	    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-221d1133-f3c3-48eb-a72c-c511828a1ff4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGNjdWRwNy0yMjFkMTEzMy1mM2MzLTQ4ZWItYTcyYy1jNTExODI4YTFmZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S3JJltb4zsHM7mjDs1sVLVZ-wvzkhEn_GfflenFMc6I" width=45px alt="jetbrains" />
+	    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-221d1133-f3c3-48eb-a72c-c511828a1ff4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGNjdWRwNy0yMjFkMTEzMy1mM2MzLTQ4ZWItYTcyYy1jNTExODI4YTFmZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S3JJltb4zsHM7mjDs1sVLVZ-wvzkhEn_GfflenFMc6I" width=65px alt="jetbrains" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
-	    <img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=40px>
+	    <img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=60px>
   </a>	
   <a href="https://colab.research.google.com/" target="_blank">
-	    <img alt="colab" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fnholmber%2Fimage%2Fupload%2Fv1536752786%2Fcolab_icon_hphjpb.png&f=1&nofb=1" width=50px>
+	    <img alt="colab" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fnholmber%2Fimage%2Fupload%2Fv1536752786%2Fcolab_icon_hphjpb.png&f=1&nofb=1" width=70px>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Logo-2Color.png&f=1&nofb=1" width=80px
+	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Logo-2Color.png&f=1&nofb=1" width=100px
 	      alt="git"/>
   </a>
   <a href="https://github.com/" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG28.png&f=1&nofb=1" width=40px alt="github" />
+	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG28.png&f=1&nofb=1" width=60px alt="github" />
   </a>
 
   <a href="www.linux.org" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=30px alt="linux" />
+	    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=50px alt="linux" />
   </a>
 
   <a href="www.ubuntu.com" target="_blank">
-	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fubuntu-icon-logo-png-transparent.png&f=1&nofb=1" width=35px alt="linux" />
+	    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fubuntu-icon-logo-png-transparent.png&f=1&nofb=1" width=55px alt="linux" />
   </a>
 
 </p>
@@ -104,13 +104,13 @@ Here are some ideas to get you started:
 ### Database Tools
 <p>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-	    <img alt="MicrosoftSQLServer" src="https://iili.io/t2ESFS.md.png" width=40px>
+	    <img alt="MicrosoftSQLServer" src="https://iili.io/t2ESFS.md.png" width=60px>
   </a>
   <a href="https://www.mysql.com" target="_blank">
-	    <img alt="MySQL" src="https://iili.io/t217Ll.png" width=40px>
+	    <img alt="MySQL" src="https://iili.io/t217Ll.png" width=60px>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-	    <img alt="Postgresql" src="https://iili.io/t2EVat.md.png" width=40px>
+	    <img alt="Postgresql" src="https://iili.io/t2EVat.md.png" width=60px>
   </a>
 </p>
 	  

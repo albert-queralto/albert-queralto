@@ -169,7 +169,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.tensorflow.org" target="_blank">
-    <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png">
+    <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png" width = 40px>
   </a>
 
  </p>

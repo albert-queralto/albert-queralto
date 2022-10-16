@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 	    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   <a href="https://www.mysql.com" target="_blank">
-	    <img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width=90px>
+	    <img alt="MySQL" src="https://banner2.cleanpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg" width=90px>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
 	    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">

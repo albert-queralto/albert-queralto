@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 
+<div id="header" align="center">
+
 ## How to reach me <img src = "https://media1.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 25 px>
 
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="10%" height="10%"></a>

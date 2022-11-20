@@ -251,6 +251,14 @@ Here are some ideas to get you started:
 
 </a>
 
+<a href="https://github.com/albert-queralto/scraping-energy-prices-spain">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=scraping-energy-prices-spain&theme=tokyonight" />
+
+</a>
+
 <a href="https://github.com/albert-queralto/goodreads-scraper">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

@@ -171,7 +171,7 @@ Here are some ideas to get you started:
   </a>
   
    <a href="https://www.pytorch.org" target="_blank">
-    <img alt="Tensor" src="https://es.m.wikipedia.org/wiki/Archivo:PyTorch_logo_black.svg" width = 50px>
+    <img alt="Torch" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width = 50px>
   </a>
 
  </p>

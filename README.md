@@ -169,6 +169,10 @@ Here are some ideas to get you started:
   <a href="https://www.tensorflow.org" target="_blank">
     <img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png" width = 50px>
   </a>
+  
+   <a href="https://www.pytorch.org" target="_blank">
+    <img alt="Tensor" src="https://es.m.wikipedia.org/wiki/Archivo:PyTorch_logo_black.svg" width = 50px>
+  </a>
 
  </p>
 

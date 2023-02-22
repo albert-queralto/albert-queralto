@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 	      alt="git"/>
   </a>
   <a href="https://github.com/" target="_blank">
-	    <img src="https://ibb.co/99f70qQ" width=60px alt="github" />
+	    <img src="https://i.ibb.co/7JTqDGs/github.jpg" width=60px alt="github" />
   </a>
 
   <a href="www.linux.org" target="_blank">

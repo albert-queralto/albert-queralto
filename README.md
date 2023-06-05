@@ -124,8 +124,10 @@
   </p>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+ <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+	
 <p align="center">
   <img src="https://github.com/albert-queralto/albert-queralto/blob/output/github-contribution-grid-snake.svg"
     alt="snake" />

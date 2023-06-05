@@ -125,7 +125,6 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-queralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="albert-queralto" height="130px"/>
-	  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albert-queralto&layout=compact&langs_count=16&theme=tokyonight"/>
   <br/>
 	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-queralto&theme=tokyonight" alt="albert-queralto" height="192px"/>
   <br/>

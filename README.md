@@ -117,29 +117,11 @@
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albert-queralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-queralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="albert-queralto" height="130px"/>
-  <br/>
-	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-queralto&theme=tokyonight" alt="albert-queralto" height="192px"/>
-  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=albert-queralto&show_icons=true&count_private=true&theme=tokyonight" height="180px"/></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-queralto&theme=tokyonight" alt="albert-queralto" height="180px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-queralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="albert-queralto" height="130px"/>  
   </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/albert-queralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=albert-queralto&custom_title=Albert%20Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

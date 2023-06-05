@@ -128,10 +128,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 	
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/albert-queralto/albert-queralto/blob/output/github-contribution-grid-snake.svg"
     alt="snake" />
-</p>
+</p> -->
 	
 ------
 

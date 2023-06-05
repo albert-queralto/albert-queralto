@@ -96,7 +96,7 @@
 </table>
 
 ## Projects
-
+<p align="center">
 <a href="https://github.com/albert-queralto/ml_ijp_deposition_paper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
 </a>
@@ -112,7 +112,7 @@
 <a href="https://github.com/albert-queralto/goodreads-scraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=goodreads-scraper&theme=tokyonight" />
 </a>
-
+</p>
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>

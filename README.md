@@ -4,6 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 -->
 
+
+<div id="header" align="center">
+
+I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.
+
 <div id="header" align="center">
 
 ### How to reach me 🤝

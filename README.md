@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
 
-## I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.
+### I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.
 
 <div id="header" align="center">
 

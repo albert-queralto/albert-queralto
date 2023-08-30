@@ -9,7 +9,7 @@
 
 ### I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.
 
-<div id="header" align="center">
+<div id="header" align="left">
 
 ### How to reach me 🤝
 

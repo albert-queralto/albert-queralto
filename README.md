@@ -1,17 +1,14 @@
-<h1 align="left">Hi, I am Albert</h1>
+<h1 align="center">👋 Hi, I am Albert 👋</h1>
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 -->
 
+<h4 align="left">I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.</h4>
+
+<h2 align="left">How to reach me 🤝</h2>
 
 <div id="header" align="center">
-
-### I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to combat climate change.
-
-<div id="header" align="left">
-
-### How to reach me 🤝
 
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="8%" height="8%"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/07/04/12/16/social-2470870_960_720.png" alt="albertqueralto" width="4%" height="4%"></a>

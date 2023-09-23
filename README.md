@@ -117,7 +117,7 @@
 </p>
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+<!-- ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=albert-queralto&show_icons=true&count_private=true&theme=tokyonight" height="180px"/></a>

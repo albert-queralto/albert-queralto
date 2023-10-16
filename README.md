@@ -28,7 +28,7 @@
     <th>Visualization</th>
     <th>Data Treatment and ETL</th>
     <th>Machine and Deep Learning</th>
-    <th>Backend</th>
+    <th>Deployment</th>
     <th>Automation</th>
     <th>Learning</th>
   </tr>

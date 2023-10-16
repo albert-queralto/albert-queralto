@@ -111,9 +111,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=scraping-energy-prices-spain&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/albert-queralto/goodreads-scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=goodreads-scraper&theme=tokyonight" />
-</a>
 </p>
 
 

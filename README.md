@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I am Albert 👋</h1>
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
--->
-
 <h3 align="left">I am a Data Scientist and Machine Learning Engineer, developing AI-powered tools to fight climate change.</h3>
 
 <h2 align="left">How to reach me 🤝</h2>
@@ -96,41 +92,6 @@
     </td>
   </tr>
 </table>
-
-## Projects
-<p align="center">
-<a href="https://github.com/albert-queralto/ml_ijp_deposition_paper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/albert-queralto/reinforcement_learning_lunar_lander">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=reinforcement_learning_lunar_lander&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/albert-queralto/scraping-energy-prices-spain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albert-queralto&repo=scraping-energy-prices-spain&theme=tokyonight" />
-</a>
-
-</p>
-
-
-<!-- ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=albert-queralto&show_icons=true&count_private=true&theme=tokyonight" height="180px"/></a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-queralto&theme=tokyonight" alt="albert-queralto" height="180px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-queralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="albert-queralto" height="130px"/>  
-  </p>
-
-## 🏆GitHub Trophies
- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=albert-queralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-	
-<!-- <p align="center">
-  <img src="https://github.com/albert-queralto/albert-queralto/blob/output/github-contribution-grid-snake.svg"
-    alt="snake" />
-</p> -->
 	
 ------
 

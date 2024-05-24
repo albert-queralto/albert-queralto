@@ -48,7 +48,6 @@
             alt="git"/></a>
       <a href="https://github.com/" target="_blank"><img src="https://i.ibb.co/7JTqDGs/github.jpg" width=60px alt="github" /></a>
       <a href="www.linux.org" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=50px alt="linux" /></a>
-      <a href="www.ubuntu.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fubuntu-icon-logo-png-transparent.png&f=1&nofb=1" width=55px alt="linux" /></a>
     </td>
     <td class="image-cell">
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img alt="MicrosoftSQLServer" src="https://iili.io/t2ESFS.md.png" width=60px></a>

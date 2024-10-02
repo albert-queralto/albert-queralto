@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I am Albert 👋</h1>
 
-<h3 align="left">I am a Data Scientist and Machine Learning Engineer.</h3>
+<h3 align="left">I am a Data Scientist.</h3>
 
 <h2 align="left">How to reach me 🤝</h2>
 

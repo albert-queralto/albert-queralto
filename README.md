@@ -38,6 +38,7 @@
       <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width="65px"></a>
       <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="60px"></a>
       <a href="https://www.latex-project.org" target="_blank"><img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width="100px"></a>
+      <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust" src="https://i.ibb.co/xMgZPDc/th-555070400.png" width="100px"></a>     
     </td>
     <td class="image-cell">
       <a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="60px" alt="vsCode"></a>

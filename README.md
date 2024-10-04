@@ -34,7 +34,7 @@
       <a href="www.html.com" target="_blank"><img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width="65px"></a>
       <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img alt="Markdown" src="https://i.ibb.co/1fpKYjt/markdown.png" width="80px"></a>
       <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width="65px"></a>
-      <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="60px"></a>
+      <!-- <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="60px"></a> -->
       <a href="https://www.latex-project.org" target="_blank"><img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width="100px"></a>
       <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust" src="https://i.ibb.co/xMgZPDc/th-555070400.png" width="100px"></a>     
     </td>

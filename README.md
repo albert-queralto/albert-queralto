@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/07/04/12/16/social-2470870_960_720.png" alt="albertqueralto" width="4%" height="4%"></a>
 <a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://i.ibb.co/5BGqqQd/kaggle.png" width="6%" height="6%" alt="albertqueralto"></a>
 	
-<img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" width="15%" height="15%" alt="aqueralto" /> <a href="https://twitter.com/queraltoalbert" target="blank"><img src="https://img.shields.io/twitter/follow/QueraltoAlbert?logo=twitter&style=for-the-badge" width="22%" height="22%" alt="QueraltoAlbert" /></a>
+<img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" width="15%" height="15%" alt="aqueralto" /> <a href="https://x.com/queraltoalbert" target="blank"><img src="https://img.shields.io/twitter/follow/QueraltoAlbert?logo=twitter&style=for-the-badge" width="22%" height="22%" alt="QueraltoAlbert" /></a>
 
 </div>
 

@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 
-<a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="8%" height="8%"></a>
+<a href="https://x.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="8%" height="8%"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/07/04/12/16/social-2470870_960_720.png" alt="albertqueralto" width="4%" height="4%"></a>
 <a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://i.ibb.co/5BGqqQd/kaggle.png" width="6%" height="6%" alt="albertqueralto"></a>
 	

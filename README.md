@@ -1,95 +1,75 @@
-<h1 align="center">👋 Hi, I am Albert 👋</h1>
+<h1 align="center">Hi, I'm Albert Queraltó 👋</h1>
 
-<h2 align="left">How to reach me 🤝</h2>
+<p align="center"><strong>Data Scientist · Software Engineer · PhD</strong></p>
 
-<div id="header" align="center">
+<p align="center">I build reliable machine-learning systems from real-world data — combining modelling, data pipelines, APIs, and full-stack applications.</p>
 
-<a href="https://x.com/queraltoalbert" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390__340.png" width="8%" height="8%"></a>
-<a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/07/04/12/16/social-2470870_960_720.png" alt="albertqueralto" width="4%" height="4%"></a>
-<a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://i.ibb.co/5BGqqQd/kaggle.png" width="6%" height="6%" alt="albertqueralto"></a>
-	
-<img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" width="15%" height="15%" alt="aqueralto" /> <a href="https://x.com/queraltoalbert" target="blank"><img src="https://img.shields.io/twitter/follow/QueraltoAlbert?logo=twitter&style=for-the-badge" width="22%" height="22%" alt="QueraltoAlbert" /></a>
+<p align="center">
+  <a href="https://albertqueralto.dev/">Portfolio</a> ·
+  <a href="https://albertqueralto.dev/projects/">Selected work</a> ·
+  <a href="https://www.linkedin.com/in/albertqueralto/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/albertqueralto">Kaggle</a> ·
+  <a href="https://x.com/queraltoalbert">X</a> ·
+  <a href="mailto:albert@albertqueralto.dev">Email</a>
+</p>
 
-</div>
+<p align="center"><strong>Data → Models → Products</strong></p>
 
-## Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-	
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Development</th>
-    <th>Databases</th>
-    <th>Visualization</th>
-    <th>Data Treatment and ETL</th>
-    <th>Machine and Deep Learning</th>
-    <th>Deployment</th>
-    <th>Automation</th>
-    <th>Learning</th>
-  </tr>
-  <tr>
-    <td class="image-cell">
-      <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://i.ibb.co/XXCZgWY/python.png" width="60px"></a>
-      <a href="https://www.r-project.org/" target="_blank"><img alt="R" src="https://i.ibb.co/XzM9prF/rlogo.png" width="70px"></a>
-      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://i.ibb.co/q1mzt2q/sql.png" width="110px"></a>
-      <a href="www.html.com" target="_blank"><img alt="HTML5" src="https://i.ibb.co/mTnRcJ1/html.png" width="65px"></a>
-      <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img alt="Markdown" src="https://i.ibb.co/1fpKYjt/markdown.png" width="80px"></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://i.ibb.co/nChynxc/bash.png" width="65px"></a>
-      <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="60px"></a>
-      <a href="https://www.latex-project.org" target="_blank"><img alt="LaTeX" src="https://i.ibb.co/vQBhsdV/latex.png" width="100px"></a>
-      <!-- <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust" src="https://i.ibb.co/xMgZPDc/th-555070400.png" width="100px"></a> -->
-    </td>
-    <td class="image-cell">
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="60px" alt="vsCode"></a>
-      <a href="https://www.jetbrains.com/" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-221d1133-f3c3-48eb-a72c-c511828a1ff4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGNjdWRwNy0yMjFkMTEzMy1mM2MzLTQ4ZWItYTcyYy1jNTExODI4YTFmZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S3JJltb4zsHM7mjDs1sVLVZ-wvzkhEn_GfflenFMc6I" width=65px alt="jetbrains" /></a>
-      <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://i.ibb.co/F4ZDnfv/jupyter.png" width=60px></a>	
-      <a href="https://colab.research.google.com/" target="_blank"><img alt="colab" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fnholmber%2Fimage%2Fupload%2Fv1536752786%2Fcolab_icon_hphjpb.png&f=1&nofb=1" width=70px></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Logo-2Color.png&f=1&nofb=1" width=100px
-            alt="git"/></a>
-      <a href="https://github.com/" target="_blank"><img src="https://i.ibb.co/7JTqDGs/github.jpg" width=60px alt="github" /></a>
-      <a href="www.linux.org" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FLINUX-LOGO.png&f=1&nofb=1" width=50px alt="linux" /></a>
-    </td>
-    <td class="image-cell">
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img alt="MicrosoftSQLServer" src="https://iili.io/t2ESFS.md.png" width=60px></a>
-      <a href="https://www.mysql.com" target="_blank"><img alt="MySQL" src="https://iili.io/t217Ll.png" width=60px></a>
-      <a href="https://www.postgresql.org" target="_blank"><img alt="Postgresql" src="https://iili.io/t2EVat.md.png" width=60px></a>
-      <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.sOJIxyOkAV7Iu0zHOq6mkAHaE8%26pid%3DApi&f=1&ipt=e92951d22d6c20896b613edb9d512667d3980b9eef46de6638a79a931d522c37&ipo=images" width=80px></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" width=140px></a>
-      <a href="https://neo4j.com/" target="_blank"><img alt="Neo4j" src="https://www.fullstackpython.com/img/logos/neo4j.png" width=140px></a>
-    </td>
-    <td class="image-cell">
-      <a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width=60px></a>
-      <a href="https://seaborn.pydata.org" target="_blank"><img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width=60px></a>
-      <a href="https://plotly.com/" target="_blank"><img alt="Plotly" src="https://iili.io/t2hFaV.png" width=70px></a>
-      <a href="" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WPupCUk4McR4k-_sU3twIgHaHd%26pid%3DApi&f=1&ipt=560e0d50c7b268e39dc2552dab4e2c11d8b659faf32bf093a8f183d4ef70efa4&ipo=images" alt="PowerBI" width=60px></a>
-      <a href="www.tableau.com" target="_blank"><img alt="Tableau" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZJJrBeCvQXFqN55-3UcogHaEK%26pid%3DApi&f=1&ipt=727b0bc5fd6031d82ee8fd87f74b4993a49edeb2a0f029a794a01287c1eaf7e4&ipo=images" width=110px></a>
-    </td>
-    <td class="image-cell">
-      <a href="https://numpy.org/" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-      <a href="https://scipy.org/" target="_blank"><img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
-      <a href="http://pentaho.com/" target="_blank"><img alt="Pentaho" src="https://img.shields.io/badge/Pentaho Data Integration-F37626.svg?style=for-the-badge&logo=pdi&logoColor=white"></a>
-    </td>
-    <td class="image-cell">
-      <a href="https://scikit-learn.org/" target="_blank"><img alt="Scikit" src="https://iili.io/Zyv4Zg.png)" width = 100px></a>
-      <a href="https://www.tensorflow.org" target="_blank"><img alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/168px-Tensorflow_logo.svg.png" width = 50px></a>
-      <a href="https://keras.io/" target="_blank"><img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width=140px></a>
-      <a href="https://www.pytorch.org" target="_blank"><img alt="Torch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width = 40px></a>
-    </td>
-    <td class="image-cell">
-      <a href="" target="_blank"><img alt="Docker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.9WF0OC9phVbU1j3k2McOSAHaGN%26pid%3DApi&f=1&ipt=cbd1d209e769b8223cc8fa416b007d78d5972bd5a745d3a444d8a1a6930ac282&ipo=images" width=80px></a>
-    </td>
-    <td class="image-cell">
-      <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></a>
-    </td>
-    <td class="image-cell">
-      <a href="www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
-      <a href="https://flask.palletsprojects.com" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
-      <a href="" target="_blank"><img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
-      <a href="https://cloud.google.com" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-      <a href="https://azure.microsoft.com" target="_blank"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white-"></a>
-    </td>
-  </tr>
-</table>
-	
-------
+## What I work on
 
+- **Applied machine learning:** time-series forecasting, anomaly detection, interpretable models, and production inference.
+- **Data platforms:** ingestion and ETL, geospatial and operational data, automation, and quality checks.
+- **Software engineering:** maintainable Python APIs, React interfaces, background processing, and containerized services.
+
+## Core technology stack
+
+These are the 16 technologies highlighted on my [portfolio website](https://albertqueralto.dev/).
+
+| Focus | Technologies |
+|:--|:--|
+| **ML & analytics** | ![Python](https://img.shields.io/badge/Python-17324D?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-17324D?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-17324D?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-17324D?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-17324D?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-17324D?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Applications & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-17324D?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-17324D?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-17324D?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17324D?style=flat-square&logo=postgresql&logoColor=white) |
+| **Engineering** | ![Docker](https://img.shields.io/badge/Docker-17324D?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-17324D?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-17324D?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-17324D?style=flat-square&logo=git&logoColor=white) |
+| **Visualization & BI** | ![Plotly](https://img.shields.io/badge/Plotly-17324D?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-17324D?style=flat-square) |
+
+## Other technologies I work with
+
+Additional tools used across data science, machine-learning engineering, and full-stack projects.
+
+| Area | Technologies |
+|:--|:--|
+| **Web development** | ![JavaScript](https://img.shields.io/badge/JavaScript-253449?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-253449?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-253449?style=flat-square&logo=css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-253449?style=flat-square&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-253449?style=flat-square&logo=flask&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-253449?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-253449?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Data engineering & automation** | ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-253449?style=flat-square&logo=apacheairflow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-253449?style=flat-square&logo=databricks&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-253449?style=flat-square&logo=celery&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-253449?style=flat-square&logo=selenium&logoColor=white) ![Pentaho](https://img.shields.io/badge/Pentaho-253449?style=flat-square) |
+| **Storage & geospatial** | ![PostGIS](https://img.shields.io/badge/PostGIS-253449?style=flat-square&logo=postgis&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-253449?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-253449?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-253449?style=flat-square) ![GeoServer](https://img.shields.io/badge/GeoServer-253449?style=flat-square&logo=geoserver&logoColor=white) |
+| **ML, explainability & LLMs** | ![Keras](https://img.shields.io/badge/Keras-253449?style=flat-square&logo=keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-253449?style=flat-square&logo=scipy&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-253449?style=flat-square) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-253449?style=flat-square&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-253449?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-253449?style=flat-square&logo=ollama&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-253449?style=flat-square) |
+| **Dashboards & notebooks** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-253449?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-253449?style=flat-square) ![Bokeh](https://img.shields.io/badge/Bokeh-253449?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-253449?style=flat-square&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-253449?style=flat-square&logo=tableau&logoColor=white) |
+| **Deployment & tooling** | ![Docker Compose](https://img.shields.io/badge/Docker_Compose-253449?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-253449?style=flat-square&logo=nginx&logoColor=white) ![Render](https://img.shields.io/badge/Render-253449?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-253449?style=flat-square&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-253449?style=flat-square&logo=github&logoColor=white) |
+
+<details>
+  <summary><strong>More languages, databases, and development tools</strong></summary>
+
+| Area | Technologies |
+|:--|:--|
+| **Languages & documentation** | ![R](https://img.shields.io/badge/R-253449?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-253449?style=flat-square) ![C](https://img.shields.io/badge/C-253449?style=flat-square&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-253449?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-253449?style=flat-square&logo=markdown&logoColor=white) |
+| **Other databases** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-253449?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-253449?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-253449?style=flat-square&logo=mongodb&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-253449?style=flat-square&logo=apachecassandra&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-253449?style=flat-square&logo=neo4j&logoColor=white) |
+| **Platforms & development** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-253449?style=flat-square&logo=googlecloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-253449?style=flat-square) ![Django](https://img.shields.io/badge/Django-253449?style=flat-square&logo=django&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-253449?style=flat-square&logo=visualstudiocode&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-253449?style=flat-square&logo=jetbrains&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-253449?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-253449?style=flat-square&logo=googlecolab&logoColor=white) |
+
+</details>
+
+## Featured projects
+
+### [Payrithm](https://albertqueralto.dev/projects/payrithm/)
+
+An ML-powered accounts-receivable platform for late-payment prediction, cash forecasting, and collection prioritization.  
+**Stack:** Python · FastAPI · scikit-learn · React · PostgreSQL · Celery · Redis · Docker
+
+### [TenderWise](https://albertqueralto.dev/projects/tenderwise/)
+
+A multilingual procurement platform for opportunity scoring, bid decisions, and collaborative tender preparation.  
+**Stack:** React · TypeScript · FastAPI · PostgreSQL · pgvector · Celery · Redis · Docker
+
+Explore more in my **[project portfolio](https://albertqueralto.dev/projects/)**, including time-series fault detection, NLP experiments, dashboards, and automated data pipelines.
+
+---
+
+<p align="center">Interested in data science, ML engineering, or building useful software? <a href="https://albertqueralto.dev/">Let’s connect.</a></p>
